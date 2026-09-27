@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26",
+ "updated": "2026-09-27",
  "repos": {
   "arnegiacomo/fugleramme": [
    {
@@ -171,7 +171,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49767564",
     "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-    "points": 94,
+    "points": 95,
     "date": "2026-09-19"
    }
   ],
@@ -271,7 +271,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49800513",
     "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
-    "points": 66,
+    "points": 67,
     "date": "2026-09-22"
    },
    {
@@ -829,7 +829,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49783999",
     "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "points": 460,
+    "points": 461,
     "date": "2026-09-21"
    }
   ],
@@ -917,7 +917,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49781862",
     "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-    "points": 242,
+    "points": 243,
     "date": "2026-09-21"
    }
   ],
@@ -937,7 +937,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49803959",
     "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-    "points": 238,
+    "points": 239,
     "date": "2026-09-22"
    }
   ],
@@ -995,7 +995,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49736466",
     "title": "Cloudflare/Security-Audit-Skill",
-    "points": 212,
+    "points": 213,
     "date": "2026-09-17"
    }
   ],
@@ -1075,7 +1075,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49777106",
     "title": "Laya on Mac M4 CoreML Offline",
-    "points": 177,
+    "points": 178,
     "date": "2026-09-20"
    }
   ],
@@ -1161,11 +1161,19 @@
   ],
   "nestrilabs/virtio-nvgpu": [
    {
+    "source": "lobsters",
+    "where": "Lobsters",
+    "url": "https://lobste.rs/s/arglg2",
+    "title": "virtio-nvgpu: A virtio device for near-native NVIDIA GPU access in KVM virtual machines",
+    "points": 5,
+    "date": "2026-09-25"
+   },
+   {
     "source": "hn",
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49824864",
     "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-    "points": 152,
+    "points": 154,
     "date": "2026-09-24"
    }
   ],
@@ -1215,7 +1223,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49807021",
     "title": "Native apps written in TypeScript and CSS",
-    "points": 129,
+    "points": 130,
     "date": "2026-09-22"
    }
   ],
@@ -3820,6 +3828,14 @@
    }
   ],
   "thebanri/limoni": [
+   {
+    "source": "reddit",
+    "where": "r/commandline",
+    "url": "https://www.reddit.com/r/commandline/comments/1wpr032/",
+    "title": "Most of your terminal doesn't change between frames. I made a demo that shows it",
+    "points": 193,
+    "date": "2026-09-25"
+   },
    {
     "source": "reddit",
     "where": "r/commandline",
@@ -6889,7 +6905,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49833867",
     "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-    "points": 403,
+    "points": 413,
     "date": "2026-09-24"
    }
   ],
@@ -6899,7 +6915,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49804359",
     "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
-    "points": 65,
+    "points": 71,
     "date": "2026-09-22"
    }
   ],
@@ -6909,7 +6925,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49821438",
     "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-    "points": 46,
+    "points": 51,
     "date": "2026-09-23"
    }
   ],
@@ -6919,7 +6935,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49842596",
     "title": "Show HN: Agentic CUDA Kernel Optimizer",
-    "points": 33,
+    "points": 37,
     "date": "2026-09-25"
    }
   ],
@@ -6929,7 +6945,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49815370",
     "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-    "points": 132,
+    "points": 137,
     "date": "2026-09-23"
    }
   ],
@@ -6939,7 +6955,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49843174",
     "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-    "points": 341,
+    "points": 357,
     "date": "2026-09-25"
    }
   ],
@@ -7189,7 +7205,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49848838",
     "title": "Bug: Border radius has infected VSCode editor",
-    "points": 77,
+    "points": 80,
     "date": "2026-09-25"
    }
   ],
@@ -7421,6 +7437,186 @@
     "title": "I've spent 8 years building Pyxel, a retro game engine for Python",
     "points": 133,
     "date": "2026-09-24"
+   }
+  ],
+  "reladraw/reladraw": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=49858513",
+    "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+    "points": 348,
+    "date": "2026-09-26"
+   }
+  ],
+  "brumar/chess-postmortem-skills": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=49857528",
+    "title": "Show HN: A Claude Code skill to analyze your chess games",
+    "points": 74,
+    "date": "2026-09-26"
+   }
+  ],
+  "stormj-UH/spivak-lean": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=49858409",
+    "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
+    "points": 17,
+    "date": "2026-09-26"
+   }
+  ],
+  "InfinityLoop1308/PipePipe": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49842764",
+    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "points": 455,
+    "date": "2026-09-25"
+   }
+  ],
+  "igr/gart": [
+   {
+    "source": "reddit",
+    "where": "r/generative",
+    "url": "https://www.reddit.com/r/generative/comments/1wre3aq/",
+    "title": "\"Ocellus\" (kotlin code)",
+    "points": 38,
+    "date": "2026-09-27"
+   }
+  ],
+  "jbikker/tinybvh": [
+   {
+    "source": "reddit",
+    "where": "r/GraphicsProgramming",
+    "url": "https://www.reddit.com/r/GraphicsProgramming/comments/1wptofc/",
+    "title": "TinyBVH 1.9.0 Now Available",
+    "points": 76,
+    "date": "2026-09-25"
+   }
+  ],
+  "mTvare6/rayfuck": [
+   {
+    "source": "reddit",
+    "where": "r/GraphicsProgramming",
+    "url": "https://www.reddit.com/r/GraphicsProgramming/comments/1wptc59/",
+    "title": "Writing a Ray Tracer in Brainfuck",
+    "points": 20,
+    "date": "2026-09-25"
+   }
+  ],
+  "OverkillLabs/DeadCells-PS5-Native": [
+   {
+    "source": "reddit",
+    "where": "r/emulation",
+    "url": "https://www.reddit.com/r/emulation/comments/1wr7fct/",
+    "title": "I built the world's first fully native PS5 game running on Windows with no emulation or translation layers: Dead Cells using AnyPS5",
+    "points": 113,
+    "date": "2026-09-27"
+   }
+  ],
+  "publicExcess/splish": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrd1p1/",
+    "title": "Splash fork optimised for M5 Max: ~1.5× faster (1.25× single request)",
+    "points": 20,
+    "date": "2026-09-27"
+   }
+  ],
+  "ashhart/TensorFold": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrd1p1/",
+    "title": "Splash fork optimised for M5 Max: ~1.5× faster (1.25× single request)",
+    "points": 20,
+    "date": "2026-09-27"
+   }
+  ],
+  "Ninnix/qwen-ple-transfer": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpvep4/",
+    "title": "Qwengram-0.8B: I transferred Qwen3.8 Flash-Next’s n-gram memory into Qwen3.5-0.8B — 5.05% lower validation perplexity",
+    "points": 366,
+    "date": "2026-09-25"
+   }
+  ],
+  "Ninnix/llama.cpp": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpvep4/",
+    "title": "Qwengram-0.8B: I transferred Qwen3.8 Flash-Next’s n-gram memory into Qwen3.5-0.8B — 5.05% lower validation perplexity",
+    "points": 366,
+    "date": "2026-09-25"
+   }
+  ],
+  "georgeyanceyjr-hash/chomp-fast": [
+   {
+    "source": "reddit",
+    "where": "r/math",
+    "url": "https://www.reddit.com/r/math/comments/1wptgol/",
+    "title": "Chomp: complete P-position enumeration through 21×21, with open-source code",
+    "points": 42,
+    "date": "2026-09-25"
+   }
+  ],
+  "GitoxideLabs/gitoxide": [
+   {
+    "source": "reddit",
+    "where": "r/rust",
+    "url": "https://www.reddit.com/r/rust/comments/1wpqvye/",
+    "title": "Gitoxide in September",
+    "points": 56,
+    "date": "2026-09-25"
+   }
+  ],
+  "shalom2552/tuitris": [
+   {
+    "source": "reddit",
+    "where": "r/commandline",
+    "url": "https://www.reddit.com/r/commandline/comments/1wrdta1/",
+    "title": "A Tetris clone TUI with bare C",
+    "points": 28,
+    "date": "2026-09-27"
+   }
+  ],
+  "CubeCoders/JetMegatexturesDemo": [
+   {
+    "source": "reddit",
+    "where": "r/esp32",
+    "url": "https://www.reddit.com/r/esp32/comments/1wpu665/",
+    "title": "I ported James Lambert's N64 Megatextures to the ESP32 S3 (with source!)",
+    "points": 405,
+    "date": "2026-09-25"
+   }
+  ],
+  "ShayanAbbas1/dbdelve": [
+   {
+    "source": "reddit",
+    "where": "r/SideProject",
+    "url": "https://www.reddit.com/r/SideProject/comments/1wr8l6n/",
+    "title": "Built an open source, fast and modern DB Client",
+    "points": 16,
+    "date": "2026-09-27"
+   }
+  ],
+  "Phantom-Con-Artist/Cineviz": [
+   {
+    "source": "reddit",
+    "where": "r/SideProject",
+    "url": "https://www.reddit.com/r/SideProject/comments/1wr89ds/",
+    "title": "I made a procedurally generated cinematic anime fight music visualizer because I am bored and unemployed!",
+    "points": 33,
+    "date": "2026-09-27"
    }
   ]
  }
