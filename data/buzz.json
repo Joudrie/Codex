@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "repos": {
   "arnegiacomo/fugleramme": [
    {
@@ -1555,7 +1555,7 @@
     "where": "Lobsters",
     "url": "https://lobste.rs/s/haq46t",
     "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-    "points": 17,
+    "points": 18,
     "date": "2026-09-21"
    }
   ],
@@ -2803,6 +2803,14 @@
    {
     "source": "reddit",
     "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt1ees/",
+    "title": "Do you need some extra memory on your DGX Spark?",
+    "points": 59,
+    "date": "2026-09-29"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlt577/",
     "title": "Speed-up Kimi K3(2.8T) on a 16x GB10 Cluster — 30 t/s coding throughput, 136 t/s concurrency peak.",
     "points": 77,
@@ -3884,6 +3892,14 @@
    }
   ],
   "thebanri/limoni": [
+   {
+    "source": "reddit",
+    "where": "r/commandline",
+    "url": "https://www.reddit.com/r/commandline/comments/1wtc0w9/",
+    "title": "I wanted a moving background in my terminal, so I made one that works in any terminal",
+    "points": 29,
+    "date": "2026-09-29"
+   },
    {
     "source": "reddit",
     "where": "r/commandline",
@@ -7017,7 +7033,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49833867",
     "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-    "points": 422,
+    "points": 423,
     "date": "2026-09-24"
    }
   ],
@@ -7027,7 +7043,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49804359",
     "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
-    "points": 74,
+    "points": 75,
     "date": "2026-09-22"
    }
   ],
@@ -7057,7 +7073,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49815370",
     "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-    "points": 138,
+    "points": 139,
     "date": "2026-09-23"
    }
   ],
@@ -7557,7 +7573,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49858513",
     "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-    "points": 407,
+    "points": 408,
     "date": "2026-09-26"
    }
   ],
@@ -7587,7 +7603,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49842764",
     "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-    "points": 505,
+    "points": 506,
     "date": "2026-09-25"
    }
   ],
@@ -7765,7 +7781,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49890647",
     "title": "Show HN: Raven – The harness of harnesses, built for RSI",
-    "points": 54,
+    "points": 55,
     "date": "2026-09-29"
    }
   ],
@@ -7775,7 +7791,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49883844",
     "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-    "points": 569,
+    "points": 573,
     "date": "2026-09-28"
    },
    {
@@ -7793,7 +7809,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49852600",
     "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-    "points": 162,
+    "points": 163,
     "date": "2026-09-26"
    }
   ],
@@ -7803,7 +7819,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49891290",
     "title": "Jeeves. Reasoning improves Jev-like decision models",
-    "points": 238,
+    "points": 242,
     "date": "2026-09-29"
    }
   ],
@@ -7823,7 +7839,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49869995",
     "title": "Imp is a full port of DSPy to the BEAM",
-    "points": 98,
+    "points": 99,
     "date": "2026-09-27"
    }
   ],
@@ -8084,6 +8100,14 @@
    }
   ],
   "opengeos/GeoLibre": [
+   {
+    "source": "reddit",
+    "where": "r/gis",
+    "url": "https://www.reddit.com/r/gis/comments/1wt9pkw/",
+    "title": "100 interactive maps built from open data",
+    "points": 50,
+    "date": "2026-09-29"
+   },
    {
     "source": "reddit",
     "where": "r/gis",
@@ -8567,7 +8591,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49879758",
     "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-    "points": 54,
+    "points": 82,
     "date": "2026-09-28"
    }
   ],
@@ -8577,7 +8601,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49898931",
     "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-    "points": 52,
+    "points": 56,
     "date": "2026-09-29"
    }
   ],
@@ -8587,7 +8611,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49901736",
     "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-    "points": 782,
+    "points": 906,
     "date": "2026-09-29"
    }
   ],
@@ -8597,7 +8621,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49895304",
     "title": "PS5 Relapse Exploit",
-    "points": 334,
+    "points": 346,
     "date": "2026-09-29"
    }
   ],
@@ -8607,7 +8631,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=49903993",
     "title": "PSSA: A non-transformer language model written from scratch in Rust",
-    "points": 83,
+    "points": 86,
     "date": "2026-09-30"
    }
   ],
@@ -8979,6 +9003,336 @@
     "title": "Voiden: an offline, Git-native API IDE built on Markdown",
     "points": 24,
     "date": "2026-09-28"
+   }
+  ],
+  "TantrixAuto/yantra": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=49916997",
+    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+    "points": 30,
+    "date": "2026-10-01"
+   }
+  ],
+  "Cardinal44/corral": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=49886422",
+    "title": "Show HN: Corral – Kill every command your agent starts",
+    "points": 19,
+    "date": "2026-09-29"
+   }
+  ],
+  "streetcomplete/StreetComplete": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49920160",
+    "title": "StreetComplete on iOS is now in public beta",
+    "points": 328,
+    "date": "2026-10-01"
+   }
+  ],
+  "maanHimself/OpenDLSS-NR": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49906100",
+    "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+    "points": 198,
+    "date": "2026-09-30"
+   }
+  ],
+  "magnitudedev/magnitude": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49911995",
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "points": 180,
+    "date": "2026-09-30"
+   }
+  ],
+  "mogrinz/AMT630A": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49884346",
+    "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+    "points": 78,
+    "date": "2026-09-28"
+   }
+  ],
+  "edgcpp/compiler": [
+   {
+    "source": "lobsters",
+    "where": "Lobsters",
+    "url": "https://lobste.rs/s/nwdxko",
+    "title": "EDG C/C++ Compiler Project",
+    "points": 26,
+    "date": "2026-09-30"
+   }
+  ],
+  "attackgoat/vk-graph": [
+   {
+    "source": "reddit",
+    "where": "r/GraphicsProgramming",
+    "url": "https://www.reddit.com/r/GraphicsProgramming/comments/1wt6617/",
+    "title": "Interactive water with flying saucer; path traced",
+    "points": 16,
+    "date": "2026-09-29"
+   }
+  ],
+  "lorenzoMezza/Three-geo-play": [
+   {
+    "source": "reddit",
+    "where": "r/threejs",
+    "url": "https://www.reddit.com/r/threejs/comments/1wtrz9m/",
+    "title": "Made an open-source native vector tile renderer for Three.js. Sharing in case it helps anyone working with 3D maps!",
+    "points": 26,
+    "date": "2026-09-30"
+   }
+  ],
+  "sbobyn/three-voxel-destruction": [
+   {
+    "source": "reddit",
+    "where": "r/threejs",
+    "url": "https://www.reddit.com/r/threejs/comments/1wtrq7u/",
+    "title": "Teardown-style voxel destruction demo in Three.js/WebGPU — 94k physics-driven voxels",
+    "points": 39,
+    "date": "2026-09-30"
+   }
+  ],
+  "sbobyn/three-avbd": [
+   {
+    "source": "reddit",
+    "where": "r/threejs",
+    "url": "https://www.reddit.com/r/threejs/comments/1wtrmrj/",
+    "title": "WebGPU physics engine for Three.js, 100k+ rigid bodies in real time",
+    "points": 195,
+    "date": "2026-09-30"
+   }
+  ],
+  "alzin/japan-rail-sim": [
+   {
+    "source": "reddit",
+    "where": "r/threejs",
+    "url": "https://www.reddit.com/r/threejs/comments/1wtat40/",
+    "title": "Sharing an open-source Japan Yamanote Line train simulator that runs in your browser",
+    "points": 16,
+    "date": "2026-09-29"
+   }
+  ],
+  "TLRomHacks/retroarch-n64-animated-border": [
+   {
+    "source": "reddit",
+    "where": "r/emulation",
+    "url": "https://www.reddit.com/r/emulation/comments/1wtswjc/",
+    "title": "N64 Animated Border",
+    "points": 17,
+    "date": "2026-09-30"
+   }
+  ],
+  "invinceble55-wq/Estacado": [
+   {
+    "source": "reddit",
+    "where": "r/emulation",
+    "url": "https://www.reddit.com/r/emulation/comments/1wtczwr/",
+    "title": "Estacado: a static recompilation of The Darkness (Xbox 360) for PC – first pre-release",
+    "points": 85,
+    "date": "2026-09-29"
+   }
+  ],
+  "giveen/ninfer-ext": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtomei/",
+    "title": "exl3 now in ninfer-ext",
+    "points": 18,
+    "date": "2026-09-29"
+   }
+  ],
+  "Roy3838/Observer": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtelk8/",
+    "title": "Thanks to you r/LocalLLaMA, my mom was able to use my app! The open-source app that can watch your screen and trigger actions. It is now easy to use, thanks to your feedback.",
+    "points": 21,
+    "date": "2026-09-29"
+   }
+  ],
+  "IST-DASLab/GSQ": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt4s88/",
+    "title": "[Release] GSQ-RCO GGUFs for Qwen3.8-Flash-Next, plus a 50% expert-pruned Coder build at ~1.89 bpw",
+    "points": 97,
+    "date": "2026-09-29"
+   }
+  ],
+  "IST-DASLab/RCO": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt4s88/",
+    "title": "[Release] GSQ-RCO GGUFs for Qwen3.8-Flash-Next, plus a 50% expert-pruned Coder build at ~1.89 bpw",
+    "points": 97,
+    "date": "2026-09-29"
+   }
+  ],
+  "openconstruct/Enclosure": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt33xk/",
+    "title": "I created a personality test for models, need more TESTS!!",
+    "points": 30,
+    "date": "2026-09-29"
+   }
+  ],
+  "openconstruct/disposition": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt33xk/",
+    "title": "I created a personality test for models, need more TESTS!!",
+    "points": 30,
+    "date": "2026-09-29"
+   }
+  ],
+  "andrewspode/intel-cc-4.0-setup": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1wtaapk/",
+    "title": "Intel C/C++ Compiler 4.0",
+    "points": 25,
+    "date": "2026-09-29"
+   }
+  ],
+  "FreeLinX/FreeLinX": [
+   {
+    "source": "reddit",
+    "where": "r/osdev",
+    "url": "https://www.reddit.com/r/osdev/comments/1wtnaaa/",
+    "title": "FreeLinX - NetBSD/Linux",
+    "points": 46,
+    "date": "2026-09-29"
+   }
+  ],
+  "jjwang/HanOS": [
+   {
+    "source": "reddit",
+    "where": "r/osdev",
+    "url": "https://www.reddit.com/r/osdev/comments/1wt9x8a/",
+    "title": "Bringing Up Intel HD 520 on My Hobby OS",
+    "points": 16,
+    "date": "2026-09-29"
+   }
+  ],
+  "turbosulovesonions67/turbOS": [
+   {
+    "source": "reddit",
+    "where": "r/osdev",
+    "url": "https://www.reddit.com/r/osdev/comments/1wt92la/",
+    "title": "Perfectly #NOAI turbOS moment 🔥️",
+    "points": 23,
+    "date": "2026-09-29"
+   }
+  ],
+  "thai-terrace/seacomb": [
+   {
+    "source": "reddit",
+    "where": "r/rust",
+    "url": "https://www.reddit.com/r/rust/comments/1wtssd4/",
+    "title": "seacomb is a formally verified seccomp compiler",
+    "points": 20,
+    "date": "2026-09-30"
+   }
+  ],
+  "seccomp/libseccomp": [
+   {
+    "source": "reddit",
+    "where": "r/rust",
+    "url": "https://www.reddit.com/r/rust/comments/1wtssd4/",
+    "title": "seacomb is a formally verified seccomp compiler",
+    "points": 20,
+    "date": "2026-09-30"
+   }
+  ],
+  "verus-lang/verus": [
+   {
+    "source": "reddit",
+    "where": "r/rust",
+    "url": "https://www.reddit.com/r/rust/comments/1wtssd4/",
+    "title": "seacomb is a formally verified seccomp compiler",
+    "points": 20,
+    "date": "2026-09-30"
+   }
+  ],
+  "runyte/runyte": [
+   {
+    "source": "reddit",
+    "where": "r/commandline",
+    "url": "https://www.reddit.com/r/commandline/comments/1wtkk2x/",
+    "title": "Runyte: modal text editor with integrated terminal multiplexing",
+    "points": 16,
+    "date": "2026-09-29"
+   }
+  ],
+  "mpiorowski/late-sh": [
+   {
+    "source": "reddit",
+    "where": "r/commandline",
+    "url": "https://www.reddit.com/r/commandline/comments/1wt81fe/",
+    "title": "Terminal Clubhouse Update! Now with POOL in your terminal, NetHack, DCSS, Brogue, and a new ZEN mode :)",
+    "points": 93,
+    "date": "2026-09-29"
+   }
+  ],
+  "Muchajoe/The-AirFlow-Project": [
+   {
+    "source": "reddit",
+    "where": "r/esp32",
+    "url": "https://www.reddit.com/r/esp32/comments/1wtej3g/",
+    "title": "I built an ESP32-S3 smart Wifi fan controller with a true hardware 0-RPM cutoff and 5V Push-Pull PWM",
+    "points": 203,
+    "date": "2026-09-29"
+   }
+  ],
+  "IrosTheBeggar/mstream-mp3-player": [
+   {
+    "source": "reddit",
+    "where": "r/selfhosted",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1wtjfrw/",
+    "title": "[ Removed by moderator ]",
+    "points": 208,
+    "date": "2026-09-29"
+   }
+  ],
+  "GPTchatly/Forma": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1wtjyq3/",
+    "title": "JEV-assisted superfast website builder (OS; MIT)",
+    "points": 47,
+    "date": "2026-09-29"
+   }
+  ],
+  "guyavrhm/orion": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1wtci5b/",
+    "title": "Thanks for 15 stars on Github! Fully automated Open-Source torrent media server, for everyday use.",
+    "points": 22,
+    "date": "2026-09-29"
    }
   ]
  }
