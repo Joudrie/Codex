@@ -1,68 +1,5 @@
 [
  {
-  "repo": "wangyuxinwhy/generate",
-  "categories": [
-   "game-ai"
-  ],
-  "sources": [
-   "topic:minimax"
-  ]
- },
- {
-  "repo": "madebyaris/advance-minimax-m3-cursor-rules",
-  "categories": [
-   "game-ai"
-  ],
-  "sources": [
-   "topic:minimax"
-  ]
- },
- {
-  "repo": "10291124jcjc-dotcom/ancient-rap-battle",
-  "categories": [
-   "game-ai"
-  ],
-  "sources": [
-   "topic:minimax"
-  ]
- },
- {
-  "repo": "xielong/ai-hub",
-  "categories": [
-   "game-ai"
-  ],
-  "sources": [
-   "topic:minimax"
-  ]
- },
- {
-  "repo": "ruashots/open-h3-ir",
-  "categories": [
-   "game-ai"
-  ],
-  "sources": [
-   "topic:minimax"
-  ]
- },
- {
-  "repo": "ginkida/gokin",
-  "categories": [
-   "game-ai"
-  ],
-  "sources": [
-   "topic:minimax"
-  ]
- },
- {
-  "repo": "modelscope/mcore-bridge",
-  "categories": [
-   "game-ai"
-  ],
-  "sources": [
-   "topic:minimax"
-  ]
- },
- {
   "repo": "litefuse/litefuse",
   "categories": [
    "game-ai"
@@ -5924,10 +5861,12 @@
  {
   "repo": "dgtlmoon/changedetection.io",
   "categories": [
-   "dataviz"
+   "dataviz",
+   "networks"
   ],
   "sources": [
-   "topic:web-scraping"
+   "topic:web-scraping",
+   "social:r/selfhosted"
   ]
  },
  {
@@ -28573,10 +28512,12 @@
  {
   "repo": "microsoft/onnxruntime",
   "categories": [
-   "ai-ml"
+   "ai-ml",
+   "networks"
   ],
   "sources": [
-   "topic:onnx"
+   "topic:onnx",
+   "social:r/selfhosted"
   ]
  },
  {
@@ -46183,7 +46124,8 @@
    "systems"
   ],
   "sources": [
-   "topic:interpreter"
+   "topic:interpreter",
+   "social:r/rust"
   ]
  },
  {
@@ -52597,10 +52539,12 @@
  {
   "repo": "code-yeongyu/oh-my-openagent",
   "categories": [
-   "devtools"
+   "devtools",
+   "ai-ml"
   ],
   "sources": [
-   "topic:tui"
+   "topic:tui",
+   "social:r/LocalLLaMA"
   ]
  },
  {
@@ -53623,10 +53567,12 @@
  {
   "repo": "Orange-OpenSource/hurl",
   "categories": [
-   "devtools"
+   "devtools",
+   "systems"
   ],
   "sources": [
-   "topic:cli"
+   "topic:cli",
+   "social:r/rust"
   ]
  },
  {
@@ -62403,7 +62349,8 @@
    "networks"
   ],
   "sources": [
-   "topic:multiplayer"
+   "topic:multiplayer",
+   "social:Hacker News"
   ]
  },
  {
@@ -76545,9 +76492,12 @@
  },
  {
   "repo": "linebender/vello",
-  "categories": [],
+  "categories": [
+   "systems"
+  ],
   "sources": [
-   "starred-by:mattdesl"
+   "starred-by:mattdesl",
+   "social:r/rust"
   ]
  },
  {
