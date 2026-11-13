@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "repos": {
   "arnegiacomo/fugleramme": [
    {
@@ -2657,6 +2657,54 @@
    {
     "source": "reddit",
     "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv3cyt/",
+    "title": "llama.cpp : bump version to 1.0.0 by ggerganov · Pull Request #32190 · ggml-org/llama.cpp",
+    "points": 132,
+    "date": "2026-11-13"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumdj4/",
+    "title": "Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master",
+    "points": 30,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu6td8/",
+    "title": "chat : refactor gemma4 to build loose schema rules and clean up by aldehir · Pull Request #31915 · ggml-org/llama.cpp",
+    "points": 50,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/",
+    "title": "Qwen4 is coming, pull requests spoted on github",
+    "points": 22,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/",
+    "title": "llama.cpp: Add FP8 KV-cache",
+    "points": 138,
+    "date": "2026-11-11"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/",
+    "title": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
+    "points": 35,
+    "date": "2026-11-10"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/",
     "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
     "points": 237,
@@ -3999,7 +4047,7 @@
     "where": "r/osdev",
     "url": "https://www.reddit.com/r/osdev/comments/1xoziaq/",
     "title": "Watching youtube on my hobby operating system, Ethereal",
-    "points": 106,
+    "points": 201,
     "date": "2026-11-06"
    },
    {
@@ -4474,6 +4522,14 @@
    }
   ],
   "rust-lang/rust": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50471793",
+    "title": "Rust 1.100",
+    "points": 314,
+    "date": "2026-11-12"
+   },
    {
     "source": "reddit",
     "where": "r/rust",
@@ -6323,7 +6379,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xq2z30/",
     "title": "A month ago I posted here at 15k stars. openGym (open-source workout tracker) just passed 20,000 ⭐ and I still don't get how",
-    "points": null,
+    "points": 229,
     "date": "2026-11-07"
    },
    {
@@ -7939,6 +7995,14 @@
    {
     "source": "hn",
     "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=50471650",
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "points": 127,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "hn",
+    "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=49821438",
     "title": "Show HN: AgentRun: DSL to turn agents into workflows",
     "points": 51,
@@ -8597,7 +8661,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xrf081/",
     "title": "I built Deviload, a free desktop app that grew from a yt-dlp downloader into a music player with synced lyrics and music videos (Rust + Tauri)",
-    "points": null,
+    "points": 37,
     "date": "2026-11-09"
    },
    {
@@ -11213,6 +11277,14 @@
    {
     "source": "reddit",
     "where": "r/godot",
+    "url": "https://www.reddit.com/r/godot/comments/1xuj5p7/",
+    "title": "Advanced Physics Guide: all the little physics tricks, issues and their solutions",
+    "points": null,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/godot",
     "url": "https://www.reddit.com/r/godot/comments/1xn094v/",
     "title": "Reminder new better typed and faster raycast API is here in v4.8!",
     "points": 114,
@@ -12139,7 +12211,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xqj2jd/",
     "title": "Reactive Html Plots, an open-source charting library for creating editorial and infographic-style charts",
-    "points": null,
+    "points": 43,
     "date": "2026-11-07"
    },
    {
@@ -16641,7 +16713,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50410249",
     "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-    "points": 146,
+    "points": 147,
     "date": "2026-11-08"
    },
    {
@@ -17151,7 +17223,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xsooi8/",
     "title": "BentoPDF is a privacy first PDF toolkit that runs in your browser",
-    "points": null,
+    "points": 41,
     "date": "2026-11-10"
    },
    {
@@ -17699,7 +17771,7 @@
     "where": "r/opensource",
     "url": "https://www.reddit.com/r/opensource/comments/1xte7g4/",
     "title": "Dawarich — free open source self hostable alternative to Google Timeline",
-    "points": null,
+    "points": 21,
     "date": "2026-11-11"
    },
    {
@@ -17973,7 +18045,7 @@
     "where": "r/proceduralgeneration",
     "url": "https://www.reddit.com/r/proceduralgeneration/comments/1xt4v8q/",
     "title": "[OC] Magna Urbis V2 procedural city – Gallery & Pre-Alpha Preview",
-    "points": 22,
+    "points": 25,
     "date": "2026-11-11"
    },
    {
@@ -20048,6 +20120,22 @@
    }
   ],
   "mw00/project-maya": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/",
+    "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+    "points": 54,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/",
+    "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+    "points": 33,
+    "date": "2026-11-10"
+   },
    {
     "source": "reddit",
     "where": "r/LocalLLaMA",
@@ -23309,9 +23397,17 @@
    {
     "source": "reddit",
     "where": "r/generative",
+    "url": "https://www.reddit.com/r/generative/comments/1xv01wk/",
+    "title": "Escher style loop",
+    "points": 17,
+    "date": "2026-11-13"
+   },
+   {
+    "source": "reddit",
+    "where": "r/generative",
     "url": "https://www.reddit.com/r/generative/comments/1xu6swi/",
     "title": "Escher style",
-    "points": 42,
+    "points": 79,
     "date": "2026-11-12"
    },
    {
@@ -23319,7 +23415,7 @@
     "where": "r/generative",
     "url": "https://www.reddit.com/r/generative/comments/1xt4ybt/",
     "title": "Aurora",
-    "points": 17,
+    "points": 16,
     "date": "2026-11-11"
    },
    {
@@ -23327,7 +23423,7 @@
     "where": "r/generative",
     "url": "https://www.reddit.com/r/generative/comments/1xp16d6/",
     "title": "Babel Library",
-    "points": 126,
+    "points": 137,
     "date": "2026-11-06"
    },
    {
@@ -24002,6 +24098,14 @@
    }
   ],
   "rubenthampy890-del/qemu-rtd2841": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xv5n75/",
+    "title": "Following up on My earlier release of the Realtek RTD2841 (RTK284x) QEMU board model",
+    "points": null,
+    "date": "2026-11-13"
+   },
    {
     "source": "reddit",
     "where": "r/ReverseEngineering",
@@ -25035,9 +25139,17 @@
    {
     "source": "reddit",
     "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/",
+    "title": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+    "points": 319,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/",
     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
-    "points": 42,
+    "points": 43,
     "date": "2026-11-08"
    },
    {
@@ -25145,7 +25257,7 @@
     "where": "r/osdev",
     "url": "https://www.reddit.com/r/osdev/comments/1xov3ti/",
     "title": "OH GOD NO",
-    "points": 219,
+    "points": 546,
     "date": "2026-11-05"
    },
    {
@@ -26531,7 +26643,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xsmox9/",
     "title": "I built an open-source YouTube app with no ads, no account and no tracking. It runs on Android, Android TV, Windows, macOS, Linux and iPad, from one codebase",
-    "points": null,
+    "points": 92,
     "date": "2026-11-10"
    },
    {
@@ -26640,6 +26752,14 @@
    }
   ],
   "godotengine/godot-proposals": [
+   {
+    "source": "reddit",
+    "where": "r/godot",
+    "url": "https://www.reddit.com/r/godot/comments/1xuj5p7/",
+    "title": "Advanced Physics Guide: all the little physics tricks, issues and their solutions",
+    "points": null,
+    "date": "2026-11-12"
+   },
    {
     "source": "reddit",
     "where": "r/godot",
@@ -27587,7 +27707,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/",
     "title": "Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)",
-    "points": 22,
+    "points": 24,
     "date": "2026-11-08"
    },
    {
@@ -29011,7 +29131,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50298436",
     "title": "Herdr has released native app",
-    "points": 367,
+    "points": 368,
     "date": "2026-10-30"
    }
   ],
@@ -29101,7 +29221,7 @@
     "where": "r/emulation",
     "url": "https://www.reddit.com/r/emulation/comments/1xos9mo/",
     "title": "Universal Ps2 Recomp engine now supports 20+ Games",
-    "points": 46,
+    "points": 59,
     "date": "2026-11-05"
    },
    {
@@ -29605,7 +29725,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50354960",
     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "points": 1530,
+    "points": 1532,
     "date": "2026-11-03"
    }
   ],
@@ -29671,7 +29791,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50305637",
     "title": "Florilegium: Procedural Flowers in LaTeX",
-    "points": 389,
+    "points": 390,
     "date": "2026-10-30"
    }
   ],
@@ -29927,9 +30047,17 @@
    {
     "source": "reddit",
     "where": "r/threejs",
+    "url": "https://www.reddit.com/r/threejs/comments/1xuhlmz/",
+    "title": "I built a LOD editor for three.js on top of meshoptimizer, with ready-to-use InstancedMesh2 code",
+    "points": 58,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/threejs",
     "url": "https://www.reddit.com/r/threejs/comments/1xoqdai/",
     "title": "10,000 skinned monsters on WebGPU with InstancedMesh2 (bone animation textures)",
-    "points": null,
+    "points": 76,
     "date": "2026-11-05"
    }
   ],
@@ -29939,7 +30067,7 @@
     "where": "r/threejs",
     "url": "https://www.reddit.com/r/threejs/comments/1xmxi1v/",
     "title": "I've open-sourced Three-Live: a sandboxed Three.js runtime that compiles natively to Android Filament and iOS RealityKit  (and also works in WebXR)",
-    "points": 21,
+    "points": 23,
     "date": "2026-11-03"
    }
   ],
@@ -29949,7 +30077,7 @@
     "where": "r/threejs",
     "url": "https://www.reddit.com/r/threejs/comments/1xmld23/",
     "title": "I made an open source version of Polyfork.",
-    "points": 15,
+    "points": 16,
     "date": "2026-11-03"
    },
    {
@@ -29967,7 +30095,7 @@
     "where": "r/threejs",
     "url": "https://www.reddit.com/r/threejs/comments/1xmfm6f/",
     "title": "Robotic hands that play any MIDI file on a piano in real time",
-    "points": 298,
+    "points": 390,
     "date": "2026-11-03"
    }
   ],
@@ -30007,7 +30135,7 @@
     "where": "r/gamedev",
     "url": "https://www.reddit.com/r/gamedev/comments/1xncool/",
     "title": "For those scared of REA and getting cloned (BLA - Blind LLM Agents)",
-    "points": 106,
+    "points": 127,
     "date": "2026-11-04"
    }
   ],
@@ -30105,7 +30233,7 @@
     "where": "r/godot",
     "url": "https://www.reddit.com/r/godot/comments/1xqxbys/",
     "title": "I got tired of modeling trees, so I made a free procedural tree generator addon",
-    "points": 1418,
+    "points": null,
     "date": "2026-11-08"
    },
    {
@@ -30309,7 +30437,7 @@
     "where": "r/MachineLearning",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/",
     "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
-    "points": null,
+    "points": 58,
     "date": "2026-11-05"
    },
    {
@@ -30355,6 +30483,14 @@
    {
     "source": "reddit",
     "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/",
+    "title": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
+    "points": 105,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/",
     "title": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight in VRAM",
     "points": 79,
@@ -30370,6 +30506,14 @@
    }
   ],
   "RustingStudio/RustingStrata": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsipew/",
+    "title": "RustingStrata vs PolyStrata vs llama.cpp on one RTX 3060 12 GB: Qwen3.6-35B-A3B",
+    "points": 15,
+    "date": "2026-11-10"
+   },
    {
     "source": "reddit",
     "where": "r/LocalLLaMA",
@@ -30979,7 +31123,7 @@
     "where": "r/dataisbeautiful",
     "url": "https://www.reddit.com/r/dataisbeautiful/comments/1xn26nu/",
     "title": "[OC] A minute of brushing, replayed in 3d from the brush's motion sensor (4x speed)",
-    "points": 631,
+    "points": 1176,
     "date": "2026-11-03"
    }
   ],
@@ -30989,7 +31133,7 @@
     "where": "r/dataisbeautiful",
     "url": "https://www.reddit.com/r/dataisbeautiful/comments/1xtvc6x/",
     "title": "[OC] When does the world take a day off?",
-    "points": null,
+    "points": 289,
     "date": "2026-11-11"
    },
    {
@@ -31007,7 +31151,7 @@
     "where": "r/dataisbeautiful",
     "url": "https://www.reddit.com/r/dataisbeautiful/comments/1xtvc6x/",
     "title": "[OC] When does the world take a day off?",
-    "points": null,
+    "points": 289,
     "date": "2026-11-11"
    },
    {
@@ -31095,7 +31239,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50449891",
     "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "points": 148,
+    "points": 149,
     "date": "2026-11-11"
    },
    {
@@ -31313,7 +31457,7 @@
     "where": "r/programming",
     "url": "https://www.reddit.com/r/programming/comments/1xo82gs/",
     "title": "LZAV 7.1: Improved compression ratio and speed. Achieved complete C/C++ pointer arithmetic compliance. Fast Data Compression Algorithm (inline C/C++).",
-    "points": 72,
+    "points": 89,
     "date": "2026-11-05"
    }
   ],
@@ -31411,7 +31555,7 @@
     "where": "r/esp32",
     "url": "https://www.reddit.com/r/esp32/comments/1xp8125/",
     "title": "I turned an ESP32-S3 touchscreen into a desk display for my Codex quota",
-    "points": 48,
+    "points": 51,
     "date": "2026-11-06"
    }
   ],
@@ -31581,7 +31725,7 @@
     "where": "r/esp32",
     "url": "https://www.reddit.com/r/esp32/comments/1xtn808/",
     "title": "I turned an ESP32-S3 into a Tailscale recovery node to wake my home server remotely",
-    "points": 266,
+    "points": 312,
     "date": "2026-11-11"
    },
    {
@@ -32135,7 +32279,7 @@
     "where": "r/Simulated",
     "url": "https://www.reddit.com/r/Simulated/comments/1xpgcyk/",
     "title": "40,000 starlings flocking live in the browser, a 3D murmuration made with LittleJS",
-    "points": 82,
+    "points": 94,
     "date": "2026-11-06"
    }
   ],
@@ -32265,7 +32409,7 @@
     "where": "r/netsec",
     "url": "https://www.reddit.com/r/netsec/comments/1xp9n79/",
     "title": "Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header",
-    "points": null,
+    "points": 34,
     "date": "2026-11-06"
    }
   ],
@@ -32275,7 +32419,7 @@
     "where": "r/netsec",
     "url": "https://www.reddit.com/r/netsec/comments/1xp9n79/",
     "title": "Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header",
-    "points": null,
+    "points": 34,
     "date": "2026-11-06"
    }
   ],
@@ -32349,7 +32493,7 @@
     "where": "r/selfhosted",
     "url": "https://www.reddit.com/r/selfhosted/comments/1xpbc1k/",
     "title": "Anchor enables share on mobile",
-    "points": 38,
+    "points": 40,
     "date": "2026-11-06"
    }
   ],
@@ -32359,7 +32503,7 @@
     "where": "r/selfhosted",
     "url": "https://www.reddit.com/r/selfhosted/comments/1xozg3r/",
     "title": "Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?",
-    "points": 19,
+    "points": 21,
     "date": "2026-11-06"
    }
   ],
@@ -32499,7 +32643,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50427085",
     "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-    "points": 172,
+    "points": 173,
     "date": "2026-11-09"
    }
   ],
@@ -32579,7 +32723,7 @@
     "where": "r/proceduralgeneration",
     "url": "https://www.reddit.com/r/proceduralgeneration/comments/1xp34nn/",
     "title": "Turning a photo into palette-knife strokes: a coarse-to-fine planner driving a paint sim",
-    "points": 15,
+    "points": 20,
     "date": "2026-11-06"
    }
   ],
@@ -32589,7 +32733,7 @@
     "where": "r/threejs",
     "url": "https://www.reddit.com/r/threejs/comments/1xqi3c8/",
     "title": "Nightscape - A cozy endless flight above storm clouds",
-    "points": null,
+    "points": 456,
     "date": "2026-11-07"
    }
   ],
@@ -32619,7 +32763,7 @@
     "where": "r/godot",
     "url": "https://www.reddit.com/r/godot/comments/1xpttcc/",
     "title": "I rebuilt the game AI examples I made for my students in 2021, now as free, readable Godot 4 addons",
-    "points": 63,
+    "points": null,
     "date": "2026-11-07"
    }
   ],
@@ -32669,7 +32813,7 @@
     "where": "r/retrogamedev",
     "url": "https://www.reddit.com/r/retrogamedev/comments/1xr7zjo/",
     "title": "I made a small boxing game for the C64 in 6502 assembly",
-    "points": null,
+    "points": 37,
     "date": "2026-11-08"
    }
   ],
@@ -32689,7 +32833,7 @@
     "where": "r/MachineLearning",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/",
     "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
-    "points": null,
+    "points": 21,
     "date": "2026-11-08"
    }
   ],
@@ -32699,7 +32843,7 @@
     "where": "r/MachineLearning",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/",
     "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
-    "points": null,
+    "points": 39,
     "date": "2026-11-08"
    }
   ],
@@ -32709,7 +32853,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrh5iz/",
     "title": "Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network.",
-    "points": 57,
+    "points": 60,
     "date": "2026-11-09"
    }
   ],
@@ -32719,7 +32863,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/",
     "title": "How much code do AI models and harnesses add? I made an open-source benchmark to measure code complexity.",
-    "points": 28,
+    "points": 35,
     "date": "2026-11-08"
    }
   ],
@@ -32729,7 +32873,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/",
     "title": "Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)",
-    "points": 22,
+    "points": 24,
     "date": "2026-11-08"
    }
   ],
@@ -32739,7 +32883,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/",
     "title": "Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)",
-    "points": 22,
+    "points": 24,
     "date": "2026-11-08"
    }
   ],
@@ -32749,7 +32893,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/",
     "title": "Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)",
-    "points": 22,
+    "points": 24,
     "date": "2026-11-08"
    }
   ],
@@ -32779,7 +32923,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/",
     "title": "Anyone tried this yet?",
-    "points": 42,
+    "points": 48,
     "date": "2026-11-08"
    }
   ],
@@ -32789,7 +32933,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/",
     "title": "What are people finding local models actually useful for?",
-    "points": 105,
+    "points": 114,
     "date": "2026-11-08"
    }
   ],
@@ -32799,7 +32943,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr18t3/",
     "title": "I ran Qwen3.5-0.8B in pure Assembly",
-    "points": 51,
+    "points": 60,
     "date": "2026-11-08"
    }
   ],
@@ -32809,7 +32953,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/",
     "title": "I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt",
-    "points": 69,
+    "points": 73,
     "date": "2026-11-08"
    }
   ],
@@ -32819,7 +32963,7 @@
     "where": "r/LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/",
     "title": "\"Does censorship exist in [country]?\", according to various LLMs",
-    "points": 1073,
+    "points": 1128,
     "date": "2026-11-08"
    }
   ],
@@ -32859,7 +33003,7 @@
     "where": "r/netsec",
     "url": "https://www.reddit.com/r/netsec/comments/1xqlw37/",
     "title": "I spent countless nights digging into PHP2Shell. Here's a deep dive into how it actually works, from memory to PHP internals to a real exploit.",
-    "points": null,
+    "points": 196,
     "date": "2026-11-08"
    }
   ],
@@ -32879,7 +33023,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xqmya6/",
     "title": "i built native imessage for windows. no mac, no iphone, no relay. the pc itself pretends to be a mac",
-    "points": null,
+    "points": 30,
     "date": "2026-11-08"
    },
    {
@@ -32927,7 +33071,7 @@
     "where": "r/programming",
     "url": "https://www.reddit.com/r/programming/comments/1xqyx52/",
     "title": "Micron - a Pascal/Oberon-derived systems language with the power of C",
-    "points": 63,
+    "points": 76,
     "date": "2026-11-08"
    },
    {
@@ -32935,7 +33079,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50413266",
     "title": "Show HN: Micron – Oberon with the Power of C",
-    "points": 64,
+    "points": 66,
     "date": "2026-11-08"
    }
   ],
@@ -33105,7 +33249,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xrqt4i/",
     "title": "I built Open Net Worth: a self-hosted alternative to Claude Personal Finance. A proactive AI wealth agent that watches all your assets, manages your investments, and trades through your broker.",
-    "points": null,
+    "points": 120,
     "date": "2026-11-09"
    }
   ],
@@ -33115,7 +33259,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xre4wt/",
     "title": "SelfSemester: Build your own AI-powered courses and self-study literally anything",
-    "points": null,
+    "points": 131,
     "date": "2026-11-09"
    }
   ],
@@ -33125,7 +33269,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xr93ck/",
     "title": "Serverless Internet Relay-free Rooms, Sirr: an open-source encrypted chat app with no servers, no accounts and no phone number. Rooms go straight from device to device. Privacy at its finest.",
-    "points": null,
+    "points": 22,
     "date": "2026-11-08"
    }
   ],
@@ -33135,7 +33279,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xr8f7y/",
     "title": "I built an open-source, offline step-by-step math solver that runs entirely in the browser",
-    "points": null,
+    "points": 25,
     "date": "2026-11-08"
    }
   ],
@@ -33145,7 +33289,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xqzfqp/",
     "title": "I rebuilt IDM the ArtCraft way: Mister Download Manager 0.5, a free GPL download manager in Rust with torrents, debrid, themes and phone control",
-    "points": null,
+    "points": 130,
     "date": "2026-11-08"
    }
   ],
@@ -33155,7 +33299,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xqvphc/",
     "title": "Started with removing ads from my Android TV, ended up creating my first project! It’s an android TV Launcher \"TV Town\" and fully open source.",
-    "points": null,
+    "points": 47,
     "date": "2026-11-08"
    }
   ],
@@ -33173,7 +33317,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xqh3fv/",
     "title": "StradaOS: open source launcher for cheap Android car head units, now with an oil change reminder and a map that turns with you (v2.12)",
-    "points": null,
+    "points": 155,
     "date": "2026-11-07"
    }
   ],
@@ -33183,7 +33327,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xqe4w8/",
     "title": "Lounge: A fast, beautiful, feature-rich, open-source launcher for Android TV and Google TV",
-    "points": null,
+    "points": 35,
     "date": "2026-11-07"
    }
   ],
@@ -33193,7 +33337,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xqapwi/",
     "title": "LocalSR - free, open-source app for upscaling and restoring photos and videos locally (Tauri + PyTorch)",
-    "points": null,
+    "points": 19,
     "date": "2026-11-07"
    }
   ],
@@ -33203,7 +33347,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xq79yd/",
     "title": "Keepfin – Free, Open-Source Video & Music Downloader with Built-in Player",
-    "points": null,
+    "points": 75,
     "date": "2026-11-07"
    }
   ],
@@ -33213,7 +33357,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xq5wh5/",
     "title": "Awesome Repos: A place to discover GitHub repos full of free resources",
-    "points": null,
+    "points": 171,
     "date": "2026-11-07"
    }
   ],
@@ -33223,7 +33367,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xpwt0w/",
     "title": "A dedicated IDE for Markdown documentation – VisualMark Studio (Open Source)",
-    "points": null,
+    "points": 18,
     "date": "2026-11-07"
    }
   ],
@@ -33243,7 +33387,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50443812",
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "points": 434,
+    "points": 442,
     "date": "2026-11-10"
    }
   ],
@@ -33253,7 +33397,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50454625",
     "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "points": 280,
+    "points": 293,
     "date": "2026-11-11"
    }
   ],
@@ -33263,7 +33407,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xtkvew/",
     "title": "700 GitHub stars in 24 hours: my free, open-source Netflix-style app for your media server, and it's only 15 MB",
-    "points": null,
+    "points": 94,
     "date": "2026-11-11"
    },
    {
@@ -33271,7 +33415,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50439000",
     "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-    "points": 167,
+    "points": 168,
     "date": "2026-11-10"
    }
   ],
@@ -33281,7 +33425,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50429144",
     "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-    "points": 111,
+    "points": 112,
     "date": "2026-11-09"
    }
   ],
@@ -33291,7 +33435,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50453229",
     "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-    "points": 103,
+    "points": 104,
     "date": "2026-11-11"
    }
   ],
@@ -33301,7 +33445,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50454951",
     "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-    "points": 82,
+    "points": 83,
     "date": "2026-11-11"
    }
   ],
@@ -33331,7 +33475,7 @@
     "where": "Show HN",
     "url": "https://news.ycombinator.com/item?id=50453176",
     "title": "Show HN: I created a library for correctly using SQLite in Go programs",
-    "points": 22,
+    "points": 23,
     "date": "2026-11-11"
    }
   ],
@@ -33361,7 +33505,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50456631",
     "title": "AWS emulator",
-    "points": 934,
+    "points": 981,
     "date": "2026-11-11"
    }
   ],
@@ -33381,7 +33525,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50438261",
     "title": "Socratic Tutor",
-    "points": 540,
+    "points": 691,
     "date": "2026-11-10"
    }
   ],
@@ -33391,7 +33535,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50433216",
     "title": "Process Explorer for macOS",
-    "points": 234,
+    "points": 235,
     "date": "2026-11-09"
    }
   ],
@@ -33401,7 +33545,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50433541",
     "title": "Exact – a new cross platform UI framework",
-    "points": 135,
+    "points": 137,
     "date": "2026-11-09"
    }
   ],
@@ -33411,17 +33555,33 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50460154",
     "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-    "points": 130,
+    "points": 148,
     "date": "2026-11-11"
    }
   ],
   "huawei-csl/MACaQ": [
    {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu7cyr/",
+    "title": "huawei-csl/Qwen3.6-35B-A3B-MACaQ-R-GGUF · Hugging Face",
+    "points": 35,
+    "date": "2026-11-12"
+   },
+   {
     "source": "hn",
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50458166",
     "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-    "points": 126,
+    "points": 134,
+    "date": "2026-11-11"
+   },
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/",
+    "title": "Open-source method (MACaQ) beats Unsloth GGUFs!",
+    "points": 134,
     "date": "2026-11-11"
    }
   ],
@@ -33431,7 +33591,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50450007",
     "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-    "points": 119,
+    "points": 122,
     "date": "2026-11-11"
    }
   ],
@@ -33441,7 +33601,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50457083",
     "title": "Cancer vaccine for Yash, he's diagnosed with stage IV pancreatic cancer",
-    "points": 84,
+    "points": 86,
     "date": "2026-11-11"
    }
   ],
@@ -33451,7 +33611,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50416640",
     "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-    "points": 79,
+    "points": 83,
     "date": "2026-11-08"
    }
   ],
@@ -33461,7 +33621,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50443264",
     "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-    "points": 51,
+    "points": 52,
     "date": "2026-11-10"
    }
   ],
@@ -33471,7 +33631,7 @@
     "where": "Hacker News",
     "url": "https://news.ycombinator.com/item?id=50468888",
     "title": "I'm making LLMs work on small and old devices",
-    "points": 49,
+    "points": 442,
     "date": "2026-11-12"
    }
   ],
@@ -33491,7 +33651,7 @@
     "where": "r/GraphicsProgramming",
     "url": "https://www.reddit.com/r/GraphicsProgramming/comments/1xudoib/",
     "title": "A brand-new physically based SSAO technique: CORTAO, Circular Occluder Ray-Traced Ambient Occlusion, is now open source!",
-    "points": 153,
+    "points": 532,
     "date": "2026-11-12"
    }
   ],
@@ -33501,7 +33661,7 @@
     "where": "r/GraphicsProgramming",
     "url": "https://www.reddit.com/r/GraphicsProgramming/comments/1xsvopl/",
     "title": "Clustered Geometry and Partitioned TLAS Launch in DirectX 12, Standardizing RTX Mega Geometry",
-    "points": 20,
+    "points": 21,
     "date": "2026-11-10"
    }
   ],
@@ -33541,7 +33701,7 @@
     "where": "r/threejs",
     "url": "https://www.reddit.com/r/threejs/comments/1xtk5b1/",
     "title": "I made my Home Assistant dashboard a 3D dollhouse of my home",
-    "points": null,
+    "points": 40,
     "date": "2026-11-11"
    }
   ],
@@ -33701,7 +33861,7 @@
     "where": "r/MachineLearning",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/",
     "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
-    "points": null,
+    "points": 164,
     "date": "2026-11-12"
    }
   ],
@@ -33711,7 +33871,7 @@
     "where": "r/MachineLearning",
     "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/",
     "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
-    "points": null,
+    "points": 35,
     "date": "2026-11-10"
    }
   ],
@@ -34041,7 +34201,7 @@
     "where": "r/commandline",
     "url": "https://www.reddit.com/r/commandline/comments/1xttvx3/",
     "title": "I made Comic Caret, a Comic Sans style font for terminals",
-    "points": null,
+    "points": 22,
     "date": "2026-11-11"
    }
   ],
@@ -34351,7 +34511,7 @@
     "where": "r/esp32",
     "url": "https://www.reddit.com/r/esp32/comments/1xtulpb/",
     "title": "I built an X11 server that runs directly on an ESP32-S3",
-    "points": 47,
+    "points": 58,
     "date": "2026-11-11"
    }
   ],
@@ -34361,7 +34521,7 @@
     "where": "r/esp32",
     "url": "https://www.reddit.com/r/esp32/comments/1xtt3p3/",
     "title": "I reverse-engineered my walking pad's internal bus and put an ESP32 inside (pulse-width protocol, OTA with rollback, no cloud)",
-    "points": 26,
+    "points": 41,
     "date": "2026-11-11"
    }
   ],
@@ -34371,7 +34531,7 @@
     "where": "r/esp32",
     "url": "https://www.reddit.com/r/esp32/comments/1xtcsyd/",
     "title": "I built ESP32 SuperFlash, a free, open-source desktop app for flashing ESP32 firmware and data partitions",
-    "points": 46,
+    "points": 55,
     "date": "2026-11-11"
    }
   ],
@@ -34431,7 +34591,7 @@
     "where": "r/homelab",
     "url": "https://www.reddit.com/r/homelab/comments/1xu5g6m/",
     "title": "My MCU-inspired homelab: ~140 Docker containers, 4 physical nodes, Proxmox, ZFS, and a virtual OpenWrt router",
-    "points": 86,
+    "points": 203,
     "date": "2026-11-12"
    }
   ],
@@ -34441,7 +34601,7 @@
     "where": "r/homelab",
     "url": "https://www.reddit.com/r/homelab/comments/1xtxee0/",
     "title": "My smallest homelab node: a $20 retro game stick running Alpine Linux, Tailscale and a dashboard on the TV",
-    "points": 441,
+    "points": 660,
     "date": "2026-11-11"
    }
   ],
@@ -34451,7 +34611,7 @@
     "where": "r/homelab",
     "url": "https://www.reddit.com/r/homelab/comments/1xttubn/",
     "title": "Live Dashboard and Network Map for my HomeLab",
-    "points": 76,
+    "points": 99,
     "date": "2026-11-11"
    }
   ],
@@ -34471,7 +34631,7 @@
     "where": "r/selfhosted",
     "url": "https://www.reddit.com/r/selfhosted/comments/1xtsr4b/",
     "title": "Pi-Dock-Wifi: a Raspberry Pi 5 router with two Wi-Fi cards, Pi-hole and web dashboard",
-    "points": 194,
+    "points": 309,
     "date": "2026-11-11"
    }
   ],
@@ -34481,7 +34641,7 @@
     "where": "r/selfhosted",
     "url": "https://www.reddit.com/r/selfhosted/comments/1xtbx7a/",
     "title": "DockTail 1.8: Tailscale Services for your Docker containers, now with custom paths, multiple services per container and no host ports needed",
-    "points": 46,
+    "points": 50,
     "date": "2026-11-11"
    }
   ],
@@ -34491,7 +34651,7 @@
     "where": "r/selfhosted",
     "url": "https://www.reddit.com/r/selfhosted/comments/1xtaf06/",
     "title": "What a self-hosted dashboard looks like on 31.5 inches of colour e-ink",
-    "points": 1563,
+    "points": 1741,
     "date": "2026-11-11"
    }
   ],
@@ -34501,7 +34661,7 @@
     "where": "r/selfhosted",
     "url": "https://www.reddit.com/r/selfhosted/comments/1xsuicw/",
     "title": "[ Removed by moderator ]",
-    "points": 79,
+    "points": 83,
     "date": "2026-11-10"
    }
   ],
@@ -34721,7 +34881,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xu93fj/",
     "title": "Reclaim – Free, open-source file recovery for Windows, macOS & Linux written in Rust",
-    "points": null,
+    "points": 71,
     "date": "2026-11-12"
    }
   ],
@@ -34731,7 +34891,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xtpdrq/",
     "title": "I made tuna-fonts, a local-first font manager for Windows (MIT, no account, no telemetry)",
-    "points": null,
+    "points": 28,
     "date": "2026-11-11"
    }
   ],
@@ -34741,7 +34901,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xthr4x/",
     "title": "Kinoklip: a free, open-source alternative to DaVinci Resolve, rebuilt with C++, with full h264, h265 and AAC codec support, for Linux, far better performance.",
-    "points": null,
+    "points": 22,
     "date": "2026-11-11"
    }
   ],
@@ -34751,7 +34911,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xtgexy/",
     "title": "I built Sourcegull: fast self-hosted code search for GitLab, GitHub and Gitea, fully free and open source",
-    "points": null,
+    "points": 35,
     "date": "2026-11-11"
    }
   ],
@@ -34761,7 +34921,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xtge5c/",
     "title": "MyMole; because I got fed up with cleaners that didnt do all or lagged",
-    "points": null,
+    "points": 38,
     "date": "2026-11-11"
    }
   ],
@@ -34771,7 +34931,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xtchrc/",
     "title": "I made a free, fast and open-source reader for PDF, EPUB, Markdown and comics, built with Rust and GPUI",
-    "points": null,
+    "points": 41,
     "date": "2026-11-11"
    }
   ],
@@ -34781,7 +34941,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xsy7jm/",
     "title": "Weltbon: open-source self-hostable world-building app",
-    "points": null,
+    "points": 42,
     "date": "2026-11-10"
    }
   ],
@@ -34791,7 +34951,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xswc2h/",
     "title": "I built a fake IDE that \"works\" for me when I finish my tasks early",
-    "points": null,
+    "points": 52,
     "date": "2026-11-10"
    }
   ],
@@ -34801,7 +34961,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xsooi8/",
     "title": "BentoPDF is a privacy first PDF toolkit that runs in your browser",
-    "points": null,
+    "points": 41,
     "date": "2026-11-10"
    }
   ],
@@ -34811,7 +34971,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xsooi8/",
     "title": "BentoPDF is a privacy first PDF toolkit that runs in your browser",
-    "points": null,
+    "points": 41,
     "date": "2026-11-10"
    }
   ],
@@ -34821,7 +34981,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xsljoh/",
     "title": "Nexus Agent — a lightweight Rust coding agent tested on Raspberry Pi 3B+",
-    "points": null,
+    "points": 18,
     "date": "2026-11-10"
    }
   ],
@@ -34841,7 +35001,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xs2qdd/",
     "title": "I made a self-hosted bookmark manager that closes my idle Firefox tabs for me, because I am incapable of doing it myself.",
-    "points": null,
+    "points": 28,
     "date": "2026-11-09"
    }
   ],
@@ -34851,7 +35011,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xrn219/",
     "title": "Living Chess Book: an open-source (GPL) browser extension that turns chess book PDFs into a live board",
-    "points": null,
+    "points": 25,
     "date": "2026-11-09"
    }
   ],
@@ -34871,7 +35031,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xseuml/",
     "title": "Alt Code Cheat Sheet",
-    "points": null,
+    "points": 18,
     "date": "2026-11-10"
    }
   ],
@@ -34881,7 +35041,7 @@
     "where": "r/coolgithubprojects",
     "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xu8gfz/",
     "title": "I’m a student and built an open-source, self-hosted study manager (deadlines, lecture notes, flashcards, transcription). Looking for feedback and contributors",
-    "points": null,
+    "points": 48,
     "date": "2026-11-12"
    }
   ],
@@ -35333,6 +35493,692 @@
     "title": "GitHub - Makteti/post-format-setup: One-click app installer for fresh Windows installs: 111 apps via winget, single PowerShell file, no dependencies.",
     "points": null,
     "date": "2026-11-11"
+   }
+  ],
+  "simpsoka/zigzag": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=50470488",
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "points": 670,
+    "date": "2026-11-12"
+   }
+  ],
+  "KoljaB/RealtimeVAD": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=50474586",
+    "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+    "points": 29,
+    "date": "2026-11-12"
+   }
+  ],
+  "Christ10-8/reflota": [
+   {
+    "source": "hn",
+    "where": "Show HN",
+    "url": "https://news.ycombinator.com/item?id=50482455",
+    "title": "Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy",
+    "points": 20,
+    "date": "2026-11-13"
+   }
+  ],
+  "chocoford/ExcalidrawZ": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50468944",
+    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "points": 124,
+    "date": "2026-11-12"
+   }
+  ],
+  "jjba23/sift": [
+   {
+    "source": "hn",
+    "where": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50460263",
+    "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+    "points": 79,
+    "date": "2026-11-11"
+   }
+  ],
+  "arijit-debug/LyricalStudio": [
+   {
+    "source": "reddit",
+    "where": "r/creativecoding",
+    "url": "https://www.reddit.com/r/creativecoding/comments/1xrvn0r/",
+    "title": "Generative kinetic typography for any song: lyrics grow into a branching vine, synced word by word",
+    "points": null,
+    "date": "2026-11-09"
+   }
+  ],
+  "southernadd-cmyk/algoart": [
+   {
+    "source": "reddit",
+    "where": "r/creativecoding",
+    "url": "https://www.reddit.com/r/creativecoding/comments/1xv5hla/",
+    "title": "PROPORTION PIECE",
+    "points": null,
+    "date": "2026-11-13"
+   },
+   {
+    "source": "reddit",
+    "where": "r/creativecoding",
+    "url": "https://www.reddit.com/r/creativecoding/comments/1xv4gi6/",
+    "title": "a browser-based drawing machine",
+    "points": null,
+    "date": "2026-11-13"
+   }
+  ],
+  "MaxAlyokhin/binary-synth": [
+   {
+    "source": "reddit",
+    "where": "r/creativecoding",
+    "url": "https://www.reddit.com/r/creativecoding/comments/1xv3q9u/",
+    "title": "A rhythmic glitch made from binary code",
+    "points": null,
+    "date": "2026-11-13"
+   }
+  ],
+  "zeux/meshoptimizer": [
+   {
+    "source": "reddit",
+    "where": "r/threejs",
+    "url": "https://www.reddit.com/r/threejs/comments/1xuhlmz/",
+    "title": "I built a LOD editor for three.js on top of meshoptimizer, with ready-to-use InstancedMesh2 code",
+    "points": 58,
+    "date": "2026-11-12"
+   }
+  ],
+  "agargaro/simplify-geometry": [
+   {
+    "source": "reddit",
+    "where": "r/threejs",
+    "url": "https://www.reddit.com/r/threejs/comments/1xuhlmz/",
+    "title": "I built a LOD editor for three.js on top of meshoptimizer, with ready-to-use InstancedMesh2 code",
+    "points": 58,
+    "date": "2026-11-12"
+   }
+  ],
+  "chrxh/alien": [
+   {
+    "source": "reddit",
+    "where": "r/Simulated",
+    "url": "https://www.reddit.com/r/Simulated/comments/1xuofci/",
+    "title": "Artificial life simulation showing evolved creatures",
+    "points": 64,
+    "date": "2026-11-12"
+   }
+  ],
+  "pulppixel/godot-bone-cloth": [
+   {
+    "source": "reddit",
+    "where": "r/godot",
+    "url": "https://www.reddit.com/r/godot/comments/1xs75hw/",
+    "title": "I ported KawaiiPhysics to Godot as a bone cloth addon",
+    "points": null,
+    "date": "2026-11-09"
+   }
+  ],
+  "foxssake/netfox": [
+   {
+    "source": "reddit",
+    "where": "r/godot",
+    "url": "https://www.reddit.com/r/godot/comments/1xsoado/",
+    "title": "Built the online multiplayer i pitched Sony 15 year ago with Godot",
+    "points": null,
+    "date": "2026-11-10"
+   }
+  ],
+  "huggingface/transformers": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/",
+    "title": "I trained DiffusionGemma to be an abstract expressionist",
+    "points": 18,
+    "date": "2026-11-13"
+   }
+  ],
+  "bumblebeers/dgg-latent": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/",
+    "title": "I trained DiffusionGemma to be an abstract expressionist",
+    "points": 18,
+    "date": "2026-11-13"
+   }
+  ],
+  "KittenML/inferencekit": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/",
+    "title": "inferencekit: open-source plugin to optimize any model on any hardware using coding agents",
+    "points": 22,
+    "date": "2026-11-13"
+   }
+  ],
+  "KittenML/inferencekit-engines": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/",
+    "title": "inferencekit: open-source plugin to optimize any model on any hardware using coding agents",
+    "points": 22,
+    "date": "2026-11-13"
+   }
+  ],
+  "ProprietaryLegal/Volta-Max-uPLIft-FP4-DeepSeek-V4.1-Flash-1017-NVFP4-8xV100-SXM2-PP2xTP4": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/",
+    "title": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
+    "points": 105,
+    "date": "2026-11-12"
+   },
+   {
+    "source": "reddit",
+    "where": "r/homelab",
+    "url": "https://www.reddit.com/r/homelab/comments/1xusbar/",
+    "title": "Lawyer's V100 homelab, update 2: the 8x V100 box now runs DeepSeek at near-NVFP4 precision with a 524K context, a 3090 moved in, RAM went to 1 TB, and I blamed PCIe for what was probably one bad PSU",
+    "points": 142,
+    "date": "2026-11-12"
+   }
+  ],
+  "moeinheidari7829/P2Echo": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/",
+    "title": "moein99/P2Echo · Hugging Face",
+    "points": 18,
+    "date": "2026-11-12"
+   }
+  ],
+  "facebookresearch/faiss": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu92md/",
+    "title": "[Paper] e-means: outperforming k-means (in one-tenth the epochs)",
+    "points": 38,
+    "date": "2026-11-12"
+   }
+  ],
+  "facebook/meta-encoder-eval": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu8eie/",
+    "title": "MetaEncoder - a facebook Collection - One Encoder for Retrieval and Decision Making",
+    "points": 17,
+    "date": "2026-11-12"
+   }
+  ],
+  "alibaba/rtp-llm": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/",
+    "title": "Qwen4 is coming, pull requests spoted on github",
+    "points": 22,
+    "date": "2026-11-12"
+   }
+  ],
+  "owenawsong/Inflect": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/",
+    "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+    "points": 99,
+    "date": "2026-11-12"
+   }
+  ],
+  "TheQuantumGOAT/Tree-Ising": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/",
+    "title": "[Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+    "points": 19,
+    "date": "2026-11-11"
+   }
+  ],
+  "oguzeldereli/ttf-ternary": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/",
+    "title": "You can now train your own LLMs with less memory, on your gaming GPUs",
+    "points": 150,
+    "date": "2026-11-11"
+   }
+  ],
+  "oguzeldereli/ttf-conversion": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/",
+    "title": "You can now train your own LLMs with less memory, on your gaming GPUs",
+    "points": 150,
+    "date": "2026-11-11"
+   }
+  ],
+  "oguzeldereli/ttf-home": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/",
+    "title": "You can now train your own LLMs with less memory, on your gaming GPUs",
+    "points": 150,
+    "date": "2026-11-11"
+   }
+  ],
+  "manuelgscom/askmdb": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/",
+    "title": "askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions into MongoDB queries",
+    "points": 16,
+    "date": "2026-11-11"
+   }
+  ],
+  "VeraTools/vera": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdmrx/",
+    "title": "Vera, a code indexing and search tool, a year later",
+    "points": 15,
+    "date": "2026-11-11"
+   }
+  ],
+  "OpenSenseNova/SenseNova-U1": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/",
+    "title": "Asked SenseNova-U1.5-8B-MoT how to make a closed terrarium, and it drew a picture for every step",
+    "points": 48,
+    "date": "2026-11-11"
+   }
+  ],
+  "Zyphra/ZONOS3-Mini": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/",
+    "title": "Zyphra/ZONOS3-Mini · Hugging Face",
+    "points": 73,
+    "date": "2026-11-11"
+   }
+  ],
+  "ifm-ai/PAN2": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/",
+    "title": "IFM/PAN2 · Hugging Face",
+    "points": 25,
+    "date": "2026-11-11"
+   }
+  ],
+  "rsaryev/llx-markdown": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/",
+    "title": "I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked",
+    "points": 21,
+    "date": "2026-11-11"
+   }
+  ],
+  "Jumbomuffin777/XeMaya": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/",
+    "title": "XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3",
+    "points": 24,
+    "date": "2026-11-10"
+   }
+  ],
+  "chrisociepa/allamo": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/",
+    "title": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
+    "points": 57,
+    "date": "2026-11-10"
+   }
+  ],
+  "5uck1ess/tts-bench": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/",
+    "title": "TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts",
+    "points": 40,
+    "date": "2026-11-10"
+   }
+  ],
+  "manuelgscom/revisa": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/",
+    "title": "My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU",
+    "points": 25,
+    "date": "2026-11-10"
+   }
+  ],
+  "Robbyant/lingbot-touch": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/",
+    "title": "LingBot-Touch - a robbyant Collection - A Foundation Model for Heterogeneous Tactile Representation Learning",
+    "points": 17,
+    "date": "2026-11-10"
+   }
+  ],
+  "adventists-ai/sophon-realtime": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/",
+    "title": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
+    "points": 33,
+    "date": "2026-11-10"
+   }
+  ],
+  "ExTV/strata-5090-4070": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/",
+    "title": "Strata after heavy optimizations",
+    "points": 115,
+    "date": "2026-11-10"
+   }
+  ],
+  "WSP-Scope/WSP-Scope-Project": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/",
+    "title": "[Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+    "points": 47,
+    "date": "2026-11-10"
+   }
+  ],
+  "yuyujunjun/JoVox": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/",
+    "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+    "points": 88,
+    "date": "2026-11-10"
+   }
+  ],
+  "dnotitia/dna-factory": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/",
+    "title": "DNA Factory: yet another LLM training framework",
+    "points": 20,
+    "date": "2026-11-10"
+   }
+  ],
+  "bigattichouse/BluePrint": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs4kit/",
+    "title": "Dialectic, Requirements, and Verifiable tests will drastically increase your model's code output quality",
+    "points": 21,
+    "date": "2026-11-09"
+   }
+  ],
+  "armbues/mlx-decision": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/",
+    "title": "I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)",
+    "points": 41,
+    "date": "2026-11-09"
+   }
+  ],
+  "davide-troiani/moeshift": [
+   {
+    "source": "reddit",
+    "where": "r/LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/",
+    "title": "M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memory",
+    "points": 15,
+    "date": "2026-11-09"
+   }
+  ],
+  "ivica00/sony-a6400-research": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xuk0jr/",
+    "title": "Reverse engineering and emulating the Sony a6400 (BIONZ X) ARMv7 firmware. Discord: https://discord.gg/KjVeA9wqh",
+    "points": null,
+    "date": "2026-11-12"
+   }
+  ],
+  "JehuAlv/8bitdo-ultimate-2c-wireless-rumble": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xv3254/",
+    "title": "U2cRumble – GPL-3.0 .NET tool that gives the 8BitDo Ultimate 2C Wireless Bluetooth rumble and native XInput",
+    "points": null,
+    "date": "2026-11-13"
+   }
+  ],
+  "VassaMadness/Operation7Launcher": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xv7u4s/",
+    "title": "In 2013, I reverse-engineered Operation7 and rewrote it. I’ve only released the launcher and its internal system so far; I’ll upload the private server later on. (19 years... maybe it’s time to rest?)",
+    "points": null,
+    "date": "2026-11-13"
+   }
+  ],
+  "ChinmayaGit/Mario-Forever-2012-Rebuild": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xv9ht5/",
+    "title": "Rebuilt Super Mario Forever 2012 from GM8.1 bytecode to run natively on the web (WebGL + TypeScript)",
+    "points": null,
+    "date": "2026-11-13"
+   }
+  ],
+  "LexLuthorPrimero/rxre-cleanroom": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xuso38/",
+    "title": "Does this hand reconstruction of GNU coreutils filenvercmp (from disasm) reproduce exactly?",
+    "points": null,
+    "date": "2026-11-12"
+   }
+  ],
+  "gatman45/gshok-public": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xun7zt/",
+    "title": "gatman45/gshok-public",
+    "points": null,
+    "date": "2026-11-12"
+   }
+  ],
+  "marinusmaurice/dnSpy": [
+   {
+    "source": "reddit",
+    "where": "r/ReverseEngineering",
+    "url": "https://www.reddit.com/r/ReverseEngineering/comments/1xv8kjf/",
+    "title": "Updated dnspy",
+    "points": null,
+    "date": "2026-11-13"
+   }
+  ],
+  "diesel-rs/diesel": [
+   {
+    "source": "reddit",
+    "where": "r/rust",
+    "url": "https://www.reddit.com/r/rust/comments/1xv6qhw/",
+    "title": "Diesel 2.4",
+    "points": 58,
+    "date": "2026-11-13"
+   }
+  ],
+  "bitbank2/JPEGDEC": [
+   {
+    "source": "reddit",
+    "where": "r/esp32",
+    "url": "https://www.reddit.com/r/esp32/comments/1xusl45/",
+    "title": "PSRAM is the ESP32-S31's superpower",
+    "points": 83,
+    "date": "2026-11-12"
+   }
+  ],
+  "bitbank2/AnimatedGIF": [
+   {
+    "source": "reddit",
+    "where": "r/esp32",
+    "url": "https://www.reddit.com/r/esp32/comments/1xusl45/",
+    "title": "PSRAM is the ESP32-S31's superpower",
+    "points": 83,
+    "date": "2026-11-12"
+   }
+  ],
+  "theengs/decoder": [
+   {
+    "source": "reddit",
+    "where": "r/esp32",
+    "url": "https://www.reddit.com/r/esp32/comments/1xucmdm/",
+    "title": "OpenMQTTGateway 1.9 released: ESP32 core 3.x, Theengs Decoder 2.5 with 25+ new BLE devices, security fixes",
+    "points": 15,
+    "date": "2026-11-12"
+   }
+  ],
+  "1technophile/OpenMQTTGateway": [
+   {
+    "source": "reddit",
+    "where": "r/esp32",
+    "url": "https://www.reddit.com/r/esp32/comments/1xucmdm/",
+    "title": "OpenMQTTGateway 1.9 released: ESP32 core 3.x, Theengs Decoder 2.5 with 25+ new BLE devices, security fixes",
+    "points": 15,
+    "date": "2026-11-12"
+   }
+  ],
+  "ramide1/mc-server-termux": [
+   {
+    "source": "reddit",
+    "where": "r/homelab",
+    "url": "https://www.reddit.com/r/homelab/comments/1xphk0i/",
+    "title": "Made my old phone into a home storage server",
+    "points": 17,
+    "date": "2026-11-06"
+   }
+  ],
+  "mortennordbye/homelab": [
+   {
+    "source": "reddit",
+    "where": "r/selfhosted",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1xv17a7/",
+    "title": "[ Removed by moderator ]",
+    "points": 92,
+    "date": "2026-11-13"
+   }
+  ],
+  "securo-finance/securo": [
+   {
+    "source": "reddit",
+    "where": "r/selfhosted",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1xunhqd/",
+    "title": "[ Removed by moderator ]",
+    "points": 215,
+    "date": "2026-11-12"
+   }
+  ],
+  "tarpetos/mimvox": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xut9na/",
+    "title": "Mimvox: clone your own voice fully locally, then type in ~60 languages or dub a video in it (OmniVoice + RVC, free)",
+    "points": 88,
+    "date": "2026-11-13"
+   }
+  ],
+  "petritavd/airoom": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xurpzo/",
+    "title": "I built my Claude Code agents an office. Free and open source.",
+    "points": 17,
+    "date": "2026-11-12"
+   }
+  ],
+  "grapedjuice/ytm-rs": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xuqck0/",
+    "title": "I built ytm-rs, a native YouTube Music desktop app in Rust: no ads, ~130 MB of RAM, karaoke lyrics and 30 themes",
+    "points": 28,
+    "date": "2026-11-12"
+   }
+  ],
+  "HuskerMinion/AmberSight": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xumtov/",
+    "title": "AmberSight: self-hosted NVR written in Rust. Windows, macOS, Linux, Raspberry Pi",
+    "points": 21,
+    "date": "2026-11-12"
+   }
+  ],
+  "jorjanion/uxplay-desktop": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xulnrn/",
+    "title": "Tired of paid AirPlay apps on Windows, so I built UxPlay Desktop: a free, open-source 60 FPS receiver with Direct3D acceleration",
+    "points": 17,
+    "date": "2026-11-12"
+   }
+  ],
+  "rinturaj/awesome-software-clones": [
+   {
+    "source": "reddit",
+    "where": "r/coolgithubprojects",
+    "url": "https://www.reddit.com/r/coolgithubprojects/comments/1xuj5i8/",
+    "title": "https://github.com/rinturaj/awesome-software-clones",
+    "points": 18,
+    "date": "2026-11-12"
    }
   ]
  }
