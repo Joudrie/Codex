@@ -1,266 +1,5 @@
 [
  {
-  "repo": "anikristo/LearnedSort",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "absognety/Python-Hackerrank-Solutions",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "Privanom/algorithms",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "42YerevanProjects/push_swap",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "nishkarshraj-legacy/Automation-using-Shell-Scripts",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "gbaudino/MetodosDeOrdenamiento",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "Hopson97/Sort-Algorithm-Visualiser",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "benggee/data-structure",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "Stoyan-Zlatev/Data-Sructures-and-Algorithms",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "rubanthilak/placement-prep-handbook",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "avinashn/programminginpython.com",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "mcombeau/push_swap",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "mateushsx/algorithms-js",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "itsjinendrajain/Coding-Ninjas-Problem-Solving-Using-Python",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-algorithms"
-  ]
- },
- {
-  "repo": "wasim15185/AlgoVisualizer",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "rahul-biswakarma/algospace",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "pythonioncoder/DSA-Visualizations",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "Abhi-Gautam/Sorting-Visualization-App",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "ComputerScientist-01/Sorting-Visualizer",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "crypticsaiyan/visusort",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "Venkateeshh/AlgoViz",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "hrnrxb/sorting_algo",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "TylerMommsen/sorting-visualizer",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "GregoryKogan/sorts",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "haltaf19/Sorting-Visualizer",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "GaganBhatia19/Sorting_Visualizer",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:sorting-visualization"
-  ]
- },
- {
-  "repo": "razimantv/mazegenerator",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:maze-generator"
-  ]
- },
- {
-  "repo": "jostbr/pymaze",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:maze-generator"
-  ]
- },
- {
-  "repo": "john-science/mazelib",
-  "categories": [
-   "algorithms"
-  ],
-  "sources": [
-   "topic:maze-generator"
-  ]
- },
- {
   "repo": "yantra-core/Labyrinthos.js",
   "categories": [
    "algorithms"
@@ -9398,10 +9137,12 @@
  {
   "repo": "StopBanning/toaster",
   "categories": [
-   "audio"
+   "audio",
+   "random"
   ],
   "sources": [
-   "topic:audio-visualizer"
+   "topic:audio-visualizer",
+   "social:r/InternetIsBeautiful"
   ]
  },
  {
@@ -77967,10 +77708,12 @@
  {
   "repo": "astral-sh/ruff",
   "categories": [
-   "random"
+   "random",
+   "devtools"
   ],
   "sources": [
-   "random"
+   "random",
+   "social:r/programming"
   ]
  },
  {
@@ -80224,10 +79967,13 @@
  {
   "repo": "Infisical/infisical",
   "categories": [
-   "devtools"
+   "devtools",
+   "networks"
   ],
   "sources": [
-   "topic:cli"
+   "topic:cli",
+   "social:r/homelab",
+   "social:r/selfhosted"
   ]
  },
  {
